@@ -1,6 +1,4 @@
 
-
-
 ### **Década de 2000's: Agilidad y Valor**  
 *(El auge de los métodos ágiles y sus desafíos)*  
 
