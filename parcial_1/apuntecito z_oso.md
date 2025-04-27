@@ -14,9 +14,10 @@
 Según el material proporcionado, la **Ingeniería de Software** es el uso de principios fundamentales de la ingeniería con el objetivo de desarrollar software de forma **económica, confiable y eficiente** en máquinas reales.  
 Esta disciplina aplica un enfoque **sistemático, disciplinado y cuantificable** al desarrollo, operación y mantenimiento del software, siendo la aplicación de la ingeniería al software.  
 También se define como la rama de las ciencias de la computación que estudia la **creación de software confiable y de calidad**, basándose en métodos y técnicas de ingeniería.  
-En esencia, busca desarrollar software de manera **eficiente y con calidad** [6].
 
-## 🏗️ Ingeniería de Software: Planificación y Calidad en el Desarrollo
+> En esencia, busca desarrollar software de manera **eficiente y con calidad** [6].
+
+### 🏗️ Ingeniería de Software: Planificación y Calidad en el Desarrollo
 
 Imaginen que construir una aplicación o un programa es como **construir una casa**.  
 La Ingeniería de Software sería como **tener un plan detallado y organizado antes de empezar a poner ladrillos** [1, 2].  
@@ -79,7 +80,7 @@ En un proyecto es obligatorio **controlar variables como Costo, Tiempo, Calidad 
 
 Por lo tanto, la afirmación de que hay que controlar las **4 P (Personas, Proceso, Producto y Proyecto)** para gestionar un proyecto está respaldada por el material proporcionado [1-4].
 
-## 👶 Explicación para un niño de 5 años
+### 👶 Explicación para un niño de 5 años
 
 Imagina que estás jugando a construir algo con bloques. Para que tu construcción quede bien, necesitas pensar en **cuatro cosas**, como si fueran cuatro amigos que te ayudan:
 
@@ -111,7 +112,7 @@ Además, también se describe como:
 
 En resumen, el proceso es **la manera organizada en la que trabajamos** para lograr que el software funcione correctamente, cumpla con los objetivos y se pueda mantener en el tiempo.
 
-## 👶 Explicación para un niño de 5 años
+### 👶 Explicación para un niño de 5 años
 
 Imagina que querés hacer una torta 🎂.  
 Para que salga rica, no podés simplemente mezclar todo al azar.  
@@ -526,10 +527,10 @@ Es como si tuviéramos un plan muy fijo y no pudiéramos cambiarlo mucho, y solo
 - **Antipatrón**: Es una solución común a un problema recurrente que parece efectiva al principio, pero que con el tiempo genera más problemas y dificultades [1].
 - **Modelo de proceso empírico**: En este enfoque de desarrollo de software, se da importancia a la **experiencia**, la **experimentación** y la **adaptación continua**. Acepta que los requisitos pueden cambiar y que no todo se puede predecir desde el principio [2]. Los ciclos cortos de trabajo, la entrega frecuente de software y la retroalimentación constante son clave para adaptarse al cambio [2].
   
-Un **modelo empírico** se enfoca en la capacidad de adaptación al cambio [2]. 
+Un **modelo empírico** se enfoca en la capacidad de **adaptación al cambio** [2]. 
 
-- **Cohesión**: Se refiere a la relación entre las diferentes partes de un módulo de software. **Baja cohesión** ocurre cuando las partes de un módulo no están claramente relacionadas entre sí [5]. Es como tener cosas que no tienen nada que ver dentro de una misma caja.
-- **Acoplamiento**: Se refiere a cómo las partes de un software dependen unas de otras. **Alto acoplamiento** ocurre cuando las partes están muy interconectadas y dependen mucho unas de otras, lo que hace que cambiar una parte pueda romper otras [4, 5]. Es como tener bloques de Lego pegados con mucha cola; al intentar mover uno, toda la torre se cae.
+- **Cohesión** *(Relaciones entre modulos)*: Se refiere a la *relación entre las diferentes partes de un módulo de software*. **Baja cohesión** ocurre cuando las partes de un módulo no están claramente relacionadas entre sí [5]. Es como tener cosas que no tienen nada que ver dentro de una misma caja.
+- **Acoplamiento** *(Dependencia entre modulos)*: Se refiere a cómo las partes de un software dependen unas de otras. **Alto acoplamiento** ocurre cuando las partes están muy interconectadas y dependen mucho unas de otras, lo que hace que cambiar una parte pueda romper otras [4, 5]. Es como tener bloques de Lego pegados con mucha cola; al intentar mover uno, toda la torre se cae.
 
 En un **modelo empírico**, **baja cohesión** y **alto acoplamiento** son antipatrónes, ya que dificultan la adaptación al cambio. Si el sistema es complicado de modificar debido a la interdependencia entre partes, el equipo pierde tiempo tratando de entender los impactos de los cambios y corrigiendo problemas, en lugar de avanzar con nuevas funcionalidades [5, 6, 7].
 
@@ -565,7 +566,7 @@ La selección del ciclo de vida adecuado depende de diversos factores relacionad
 
 - **Necesidad de entrega temprana de funcionalidades**: Los modelos **incrementales** o **evolutivos** permiten entregar versiones tempranas del software, y los métodos ágiles se centran en entregar rápidamente funcionalidades [6, 8, 20-23].
 
-- **Tamaño y complejidad del proyecto**: Los métodos ágiles son más adecuados para proyectos pequeños [11], mientras que proyectos grandes pueden beneficiarse de un enfoque incremental o en espiral [12, 13, 20].
+- **Tamaño y complejidad del proyecto**: Los métodos ágiles son más adecuados para proyectos pequeños [11], mientras que proyectos grandes pueden beneficiarse de un enfoque **incremental o en espiral** [12, 13, 20].
 
 - **Estabilidad del entorno del proyecto**: En entornos inestables o con cambios rápidos en los requisitos, los métodos ágiles son más apropiados. Para entornos más estables, los métodos secuenciales son más aplicables [2, 4, 10].
 
